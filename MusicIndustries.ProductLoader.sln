@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicIndustries.ProductLoader.Core", "MusicIndustries.ProductLoader.Core\MusicIndustries.ProductLoader.Core.csproj", "{ABA3BF10-4D6F-494F-8EEA-382E9740C1BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductLoader.Web", "ProductLoader.Web\ProductLoader.Web.csproj", "{D3188409-9076-4F85-B26B-2C183B04AD46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductLoader.DataContracts", "ProductLoader.DataContracts\ProductLoader.DataContracts.csproj", "{F79F59B9-FFCE-4CA9-8AFF-14C2D0BFA328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicIndustries.ProductLoader.Data", "MusicIndustries.ProductLoader.Data\MusicIndustries.ProductLoader.Data.csproj", "{2AB55D76-6EC3-4371-9700-68791BDE8AA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{D045A4D9-A9DB-4B7B-A5F6-EAAEC9F8F8EE}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		script.sql = script.sql
+		SECURITY.md = SECURITY.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA3BF10-4D6F-494F-8EEA-382E9740C1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA3BF10-4D6F-494F-8EEA-382E9740C1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA3BF10-4D6F-494F-8EEA-382E9740C1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA3BF10-4D6F-494F-8EEA-382E9740C1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3188409-9076-4F85-B26B-2C183B04AD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3188409-9076-4F85-B26B-2C183B04AD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3188409-9076-4F85-B26B-2C183B04AD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3188409-9076-4F85-B26B-2C183B04AD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79F59B9-FFCE-4CA9-8AFF-14C2D0BFA328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79F59B9-FFCE-4CA9-8AFF-14C2D0BFA328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79F59B9-FFCE-4CA9-8AFF-14C2D0BFA328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79F59B9-FFCE-4CA9-8AFF-14C2D0BFA328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB55D76-6EC3-4371-9700-68791BDE8AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB55D76-6EC3-4371-9700-68791BDE8AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB55D76-6EC3-4371-9700-68791BDE8AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB55D76-6EC3-4371-9700-68791BDE8AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
