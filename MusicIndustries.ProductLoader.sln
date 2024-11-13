@@ -14,6 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 		LICENSE = LICENSE
 		script.sql = script.sql
 		SECURITY.md = SECURITY.md
+		.github\workflows\build-docs.yml = .github\workflows\build-docs.yml
 	EndProjectSection
 EndProject
 Global
