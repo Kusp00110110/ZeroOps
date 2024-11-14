@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 		script.sql = script.sql
 		SECURITY.md = SECURITY.md
 		.github\workflows\build-docs.yml = .github\workflows\build-docs.yml
+		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{6C026BA8-5ACD-4F7C-930A-C01AD34AC969}"
