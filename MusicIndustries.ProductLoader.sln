@@ -17,6 +17,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 		.github\workflows\build-docs.yml = .github\workflows\build-docs.yml
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{6C026BA8-5ACD-4F7C-930A-C01AD34AC969}"
+	ProjectSection(SolutionItems) = preProject
+		Writerside\c.list = Writerside\c.list
+		Writerside\cfg\buildprofiles.xml = Writerside\cfg\buildprofiles.xml
+		Writerside\cfg\glossary.xml = Writerside\cfg\glossary.xml
+		Writerside\h.tree = Writerside\h.tree
+		Writerside\images\completion_procedure.png = Writerside\images\completion_procedure.png
+		Writerside\images\completion_procedure_dark.png = Writerside\images\completion_procedure_dark.png
+		Writerside\images\convert_table_to_xml.png = Writerside\images\convert_table_to_xml.png
+		Writerside\images\convert_table_to_xml_dark.png = Writerside\images\convert_table_to_xml_dark.png
+		Writerside\images\new_topic_options.png = Writerside\images\new_topic_options.png
+		Writerside\images\new_topic_options_dark.png = Writerside\images\new_topic_options_dark.png
+		Writerside\topics\starter.md = Writerside\topics\starter.md
+		Writerside\v.list = Writerside\v.list
+		Writerside\writerside.cfg = Writerside\writerside.cfg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
